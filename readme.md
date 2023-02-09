@@ -1,12 +1,12 @@
 packages to be installed:
-pip install Flask
+pip install Flask,
 pip install flask-sqlalchemy
 
 commands to run:
-flask shell
->>>from app import db
->>> db.create_all()
- exit()
+flask shell ,
+>>>from app import db ,
+>>> db.create_all() ,
+ exit() ,
  $ flask run
  
  
